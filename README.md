@@ -9,7 +9,6 @@ Jug
 What it looks like(please keep in mind the limitations of the GIF format):
 ![chrome-capture-2023-12-22](https://github.com/nikczemnydev/HydrationTracker/assets/136376818/2b7eec3f-66ab-4cdd-99d3-ed8aa2d698ed)
 
-
 # INSTRUCTIONS #
 1. Download index.html, style.css and script.js files.
 2. Put all 3 of them in the same folder (I know it's good practice to use subfolders - I kept it this way for ease of use, which is also why I linked photos online as opposed to local pics.)
