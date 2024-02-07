@@ -1,6 +1,6 @@
 # Latest Addition: You can now view it online at https://codepen.io/nikczemnydev/pen/qBvVmab #
 
-HTML, CSS, JavaScript - HydrationTracker -  Daily Water Drinking Tracker. HydrationTracker is a simple and effective web app product designed to help users stay hydrated by tracking their daily water intake. It features the following components:
+HTML, CSS, Vanilla JavaScript - HydrationTracker -  Daily Water Drinking Tracker. HydrationTracker is a simple and effective web app product designed to help users stay hydrated by tracking their daily water intake. It features the following components:
 
 Cups
 Cup Tracker: The main interface displays eight cups, each representing 250ml of water. Users can click on a cup to mark it as consumed, keeping track of their progress throughout the day.
